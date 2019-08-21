@@ -1,0 +1,1 @@
+This folder contains containes all files used in the capstone project.
